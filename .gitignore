@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw patient data — contains PII
+data/raw/
+hospital_patient_dataset.csv
+Hospital_New.xlsx
+
+# Power BI temp files
+*.pbix.bak
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
