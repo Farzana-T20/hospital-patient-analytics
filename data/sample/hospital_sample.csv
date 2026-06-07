@@ -1,0 +1,21 @@
+PatientID,PatientName,Gender,Age,City,Department,Diagnosis,AdmissionDate,DischargeDate,Doctor's ID,Doctor,Treatment Cost,Insurance,Total Amount
+PAT1480,Anonymised,Male,2,Chennai,Pediatrics,Flu,28-02-2024,01-03-2024,DOC12,Dr. Anita,25000,Yes,12500
+PAT1449,Anonymised,Male,28,Delhi,Neurology,Headache,30-03-2024,30-03-2024,DOC4,Dr. sam,6000,Yes,3000
+PAT1475,Anonymised,Male,23,Bengaluru,General,Covid-19,05-04-2024,15-04-2024,DOC10,Dr. Madhu,15000,No,15000
+PAT1434,Anonymised,Female,47,Mumbai,Cardiology,Asthma,31-08-2024,04-09-2024,DOC7,Dr. Kevin,6000,No,6000
+PAT1368,Anonymised,Female,51,Mumbai,Cardiology,Asthma,05-02-2024,09-02-2024,DOC7,Dr. Kevin,6000,Yes,3000
+PAT1055,Anonymised,Male,35,Mumbai,Neurology,Headache,18-08-2024,18-08-2024,DOC4,Dr. sam,6000,No,6000
+PAT1322,Anonymised,Female,25,Mumbai,General,Covid-19,03-07-2024,13-07-2024,DOC10,Dr. Madhu,15000,No,15000
+PAT1076,Anonymised,Male,14,Mumbai,Orthopedics,Fracture,01-03-2024,04-03-2024,DOC37,Dr. Raj,4000,Yes,2000
+PAT1104,Anonymised,Female,80,Mumbai,General,Covid-19,23-04-2024,03-05-2024,DOC10,Dr. Madhu,15000,No,15000
+PAT1347,Anonymised,Female,70,Chennai,General,Covid-19,12-06-2024,22-06-2024,DOC10,Dr. Madhu,15000,Yes,7500
+PAT1415,Anonymised,Male,86,Chennai,General,Covid-19,13-09-2024,23-09-2024,DOC10,Dr. Madhu,15000,Yes,7500
+PAT1220,Anonymised,Male,69,Mumbai,General,Covid-19,09-01-2024,19-01-2024,DOC10,Dr. Madhu,15000,Yes,7500
+PAT1117,Anonymised,Female,16,Chennai,Orthopedics,Fracture,13-07-2024,16-07-2024,DOC37,Dr. Raj,4000,No,4000
+PAT1249,Anonymised,Male,46,Chennai,Cardiology,Asthma,18-08-2024,22-08-2024,DOC7,Dr. Kevin,6000,No,6000
+PAT1173,Anonymised,Female,70,Chennai,General,Covid-19,03-05-2024,13-05-2024,DOC10,Dr. Madhu,15000,Yes,7500
+PAT1093,Anonymised,Female,52,Hyderabad,Cardiology,Asthma,11-09-2024,15-09-2024,DOC7,Dr. Kevin,6000,No,6000
+PAT1325,Anonymised,Female,87,Delhi,General,Covid-19,10-09-2024,20-09-2024,DOC10,Dr. Madhu,15000,Yes,7500
+PAT1275,Anonymised,Male,33,Chennai,Neurology,Headache,15-08-2024,15-08-2024,DOC4,Dr. sam,6000,No,6000
+PAT1342,Anonymised,Female,42,Bengaluru,General,Covid-19,12-04-2024,22-04-2024,DOC10,Dr. Madhu,15000,No,15000
+PAT1070,Anonymised,Male,61,Chennai,General,Covid-19,16-04-2024,26-04-2024,DOC10,Dr. Madhu,15000,No,15000
