@@ -1,0 +1,637 @@
+PatientID,PatientName,Issue,Details
+PAT1001,Anonymised,Negative age,-5
+PAT1122,Anonymised,Negative age,-5
+PAT1139,Anonymised,Negative age,-5
+PAT1187,Anonymised,Negative age,-5
+PAT1238,Anonymised,Negative age,-5
+PAT1003,Anonymised,Negative cost,Cost: -100.0
+PAT1004,Anonymised,Negative cost,Cost: -100.0
+PAT1011,Anonymised,Negative cost,Cost: -100.0
+PAT1022,Anonymised,Negative cost,Cost: -100.0
+PAT1025,Anonymised,Negative cost,Cost: -100.0
+PAT1029,Anonymised,Negative cost,Cost: -100.0
+PAT1030,Anonymised,Negative cost,Cost: -100.0
+PAT1038,Anonymised,Negative cost,Cost: -100.0
+PAT1046,Anonymised,Negative cost,Cost: -100.0
+PAT1047,Anonymised,Negative cost,Cost: -100.0
+PAT1057,Anonymised,Negative cost,Cost: -100.0
+PAT1060,Anonymised,Negative cost,Cost: -100.0
+PAT1061,Anonymised,Negative cost,Cost: -100.0
+PAT1063,Anonymised,Negative cost,Cost: -100.0
+PAT1065,Anonymised,Negative cost,Cost: -100.0
+PAT1068,Anonymised,Negative cost,Cost: -100.0
+PAT1072,Anonymised,Negative cost,Cost: -100.0
+PAT1073,Anonymised,Negative cost,Cost: -100.0
+PAT1077,Anonymised,Negative cost,Cost: -100.0
+PAT1078,Anonymised,Negative cost,Cost: -100.0
+PAT1082,Anonymised,Negative cost,Cost: -100.0
+PAT1083,Anonymised,Negative cost,Cost: -100.0
+PAT1084,Anonymised,Negative cost,Cost: -100.0
+PAT1091,Anonymised,Negative cost,Cost: -100.0
+PAT1107,Anonymised,Negative cost,Cost: -100.0
+PAT1122,Anonymised,Negative cost,Cost: -100.0
+PAT1123,Anonymised,Negative cost,Cost: -100.0
+PAT1135,Anonymised,Negative cost,Cost: -100.0
+PAT1140,Anonymised,Negative cost,Cost: -100.0
+PAT1141,Anonymised,Negative cost,Cost: -100.0
+PAT1153,Anonymised,Negative cost,Cost: -100.0
+PAT1154,Anonymised,Negative cost,Cost: -100.0
+PAT1156,Anonymised,Negative cost,Cost: -100.0
+PAT1160,Anonymised,Negative cost,Cost: -100.0
+PAT1165,Anonymised,Negative cost,Cost: -100.0
+PAT1170,Anonymised,Negative cost,Cost: -100.0
+PAT1176,Anonymised,Negative cost,Cost: -100.0
+PAT1177,Anonymised,Negative cost,Cost: -100.0
+PAT1178,Anonymised,Negative cost,Cost: -100.0
+PAT1190,Anonymised,Negative cost,Cost: -100.0
+PAT1195,Anonymised,Negative cost,Cost: -100.0
+PAT1196,Anonymised,Negative cost,Cost: -100.0
+PAT1201,Anonymised,Negative cost,Cost: -100.0
+PAT1208,Anonymised,Negative cost,Cost: -100.0
+PAT1216,Anonymised,Negative cost,Cost: -100.0
+PAT1219,Anonymised,Negative cost,Cost: -100.0
+PAT1223,Anonymised,Negative cost,Cost: -100.0
+PAT1231,Anonymised,Negative cost,Cost: -100.0
+PAT1242,Anonymised,Negative cost,Cost: -100.0
+PAT1243,Anonymised,Negative cost,Cost: -100.0
+PAT1246,Anonymised,Negative cost,Cost: -100.0
+PAT1249,Anonymised,Negative cost,Cost: -100.0
+PAT1250,Anonymised,Negative cost,Cost: -100.0
+PAT1252,Anonymised,Negative cost,Cost: -100.0
+PAT1257,Anonymised,Negative cost,Cost: -100.0
+PAT1259,Anonymised,Negative cost,Cost: -100.0
+PAT1261,Anonymised,Negative cost,Cost: -100.0
+PAT1263,Anonymised,Negative cost,Cost: -100.0
+PAT1264,Anonymised,Negative cost,Cost: -100.0
+PAT1268,Anonymised,Negative cost,Cost: -100.0
+PAT1269,Anonymised,Negative cost,Cost: -100.0
+PAT1271,Anonymised,Negative cost,Cost: -100.0
+PAT1278,Anonymised,Negative cost,Cost: -100.0
+PAT1279,Anonymised,Negative cost,Cost: -100.0
+PAT1281,Anonymised,Negative cost,Cost: -100.0
+PAT1282,Anonymised,Negative cost,Cost: -100.0
+PAT1293,Anonymised,Negative cost,Cost: -100.0
+PAT1299,Anonymised,Negative cost,Cost: -100.0
+PAT1303,Anonymised,Negative cost,Cost: -100.0
+PAT1312,Anonymised,Negative cost,Cost: -100.0
+PAT1313,Anonymised,Negative cost,Cost: -100.0
+PAT1316,Anonymised,Negative cost,Cost: -100.0
+PAT1317,Anonymised,Negative cost,Cost: -100.0
+PAT1322,Anonymised,Negative cost,Cost: -100.0
+PAT1324,Anonymised,Negative cost,Cost: -100.0
+PAT1325,Anonymised,Negative cost,Cost: -100.0
+PAT1330,Anonymised,Negative cost,Cost: -100.0
+PAT1335,Anonymised,Negative cost,Cost: -100.0
+PAT1341,Anonymised,Negative cost,Cost: -100.0
+PAT1342,Anonymised,Negative cost,Cost: -100.0
+PAT1343,Anonymised,Negative cost,Cost: -100.0
+PAT1344,Anonymised,Negative cost,Cost: -100.0
+PAT1348,Anonymised,Negative cost,Cost: -100.0
+PAT1351,Anonymised,Negative cost,Cost: -100.0
+PAT1356,Anonymised,Negative cost,Cost: -100.0
+PAT1360,Anonymised,Negative cost,Cost: -100.0
+PAT1376,Anonymised,Negative cost,Cost: -100.0
+PAT1383,Anonymised,Negative cost,Cost: -100.0
+PAT1385,Anonymised,Negative cost,Cost: -100.0
+PAT1392,Anonymised,Negative cost,Cost: -100.0
+PAT1409,Anonymised,Negative cost,Cost: -100.0
+PAT1419,Anonymised,Negative cost,Cost: -100.0
+PAT1422,Anonymised,Negative cost,Cost: -100.0
+PAT1426,Anonymised,Negative cost,Cost: -100.0
+PAT1431,Anonymised,Negative cost,Cost: -100.0
+PAT1438,Anonymised,Negative cost,Cost: -100.0
+PAT1449,Anonymised,Negative cost,Cost: -100.0
+PAT1459,Anonymised,Negative cost,Cost: -100.0
+PAT1462,Anonymised,Negative cost,Cost: -100.0
+PAT1463,Anonymised,Negative cost,Cost: -100.0
+PAT1465,Anonymised,Negative cost,Cost: -100.0
+PAT1470,Anonymised,Negative cost,Cost: -100.0
+PAT1471,Anonymised,Negative cost,Cost: -100.0
+PAT1473,Anonymised,Negative cost,Cost: -100.0
+PAT1475,Anonymised,Negative cost,Cost: -100.0
+PAT1476,Anonymised,Negative cost,Cost: -100.0
+PAT1480,Anonymised,Negative cost,Cost: -100.0
+PAT1496,Anonymised,Negative cost,Cost: -100.0
+PAT1073,Anonymised,Negative cost,Cost: -100.0
+PAT1068,Anonymised,Negative cost,Cost: -100.0
+PAT1000,Anonymised,Discharge before admission,21-04-2024 → 19-04-2024
+PAT1004,Anonymised,Discharge before admission,28-05-2024 → 27-05-2024
+PAT1009,Anonymised,Discharge before admission,13-06-2024 → 12-06-2024
+PAT1024,Anonymised,Discharge before admission,25-01-2024 → 24-01-2024
+PAT1029,Anonymised,Discharge before admission,01-08-2024 → 28-07-2024
+PAT1031,Anonymised,Discharge before admission,17-03-2024 → 12-03-2024
+PAT1033,Anonymised,Discharge before admission,11-07-2024 → 10-07-2024
+PAT1048,Anonymised,Discharge before admission,09-03-2024 → 06-03-2024
+PAT1050,Anonymised,Discharge before admission,04-05-2024 → 29-04-2024
+PAT1055,Anonymised,Discharge before admission,18-08-2024 → 14-08-2024
+PAT1070,Anonymised,Discharge before admission,16-04-2024 → 14-04-2024
+PAT1072,Anonymised,Discharge before admission,04-06-2024 → 02-06-2024
+PAT1079,Anonymised,Discharge before admission,14-04-2024 → 10-04-2024
+PAT1086,Anonymised,Discharge before admission,26-08-2024 → 24-08-2024
+PAT1092,Anonymised,Discharge before admission,19-09-2024 → 15-09-2024
+PAT1096,Anonymised,Discharge before admission,28-08-2024 → 25-08-2024
+PAT1098,Anonymised,Discharge before admission,14-04-2024 → 12-04-2024
+PAT1114,Anonymised,Discharge before admission,10-04-2024 → 09-04-2024
+PAT1119,Anonymised,Discharge before admission,05-05-2024 → 01-05-2024
+PAT1135,Anonymised,Discharge before admission,31-01-2024 → 29-01-2024
+PAT1136,Anonymised,Discharge before admission,25-09-2024 → 24-09-2024
+PAT1140,Anonymised,Discharge before admission,04-01-2024 → 31-12-2023
+PAT1143,Anonymised,Discharge before admission,28-04-2024 → 27-04-2024
+PAT1145,Anonymised,Discharge before admission,18-03-2024 → 17-03-2024
+PAT1147,Anonymised,Discharge before admission,21-04-2024 → 20-04-2024
+PAT1155,Anonymised,Discharge before admission,04-01-2024 → 03-01-2024
+PAT1163,Anonymised,Discharge before admission,01-10-2024 → 28-09-2024
+PAT1167,Anonymised,Discharge before admission,08-08-2024 → 05-08-2024
+PAT1178,Anonymised,Discharge before admission,16-05-2024 → 11-05-2024
+PAT1181,Anonymised,Discharge before admission,10-07-2024 → 07-07-2024
+PAT1188,Anonymised,Discharge before admission,11-02-2024 → 08-02-2024
+PAT1202,Anonymised,Discharge before admission,18-06-2024 → 17-06-2024
+PAT1209,Anonymised,Discharge before admission,17-10-2024 → 13-10-2024
+PAT1210,Anonymised,Discharge before admission,31-08-2024 → 27-08-2024
+PAT1211,Anonymised,Discharge before admission,18-05-2024 → 16-05-2024
+PAT1215,Anonymised,Discharge before admission,05-10-2024 → 30-09-2024
+PAT1216,Anonymised,Discharge before admission,15-10-2024 → 13-10-2024
+PAT1220,Anonymised,Discharge before admission,09-01-2024 → 04-01-2024
+PAT1224,Anonymised,Discharge before admission,22-07-2024 → 21-07-2024
+PAT1229,Anonymised,Discharge before admission,03-05-2024 → 30-04-2024
+PAT1233,Anonymised,Discharge before admission,18-06-2024 → 15-06-2024
+PAT1238,Anonymised,Discharge before admission,26-06-2024 → 22-06-2024
+PAT1248,Anonymised,Discharge before admission,19-05-2024 → 16-05-2024
+PAT1250,Anonymised,Discharge before admission,08-09-2024 → 06-09-2024
+PAT1251,Anonymised,Discharge before admission,26-04-2024 → 21-04-2024
+PAT1254,Anonymised,Discharge before admission,11-07-2024 → 08-07-2024
+PAT1255,Anonymised,Discharge before admission,09-08-2024 → 08-08-2024
+PAT1261,Anonymised,Discharge before admission,06-05-2024 → 01-05-2024
+PAT1262,Anonymised,Discharge before admission,07-02-2024 → 02-02-2024
+PAT1265,Anonymised,Discharge before admission,19-03-2024 → 17-03-2024
+PAT1268,Anonymised,Discharge before admission,18-07-2024 → 17-07-2024
+PAT1270,Anonymised,Discharge before admission,03-07-2024 → 30-06-2024
+PAT1273,Anonymised,Discharge before admission,03-01-2024 → 31-12-2023
+PAT1276,Anonymised,Discharge before admission,03-07-2024 → 01-07-2024
+PAT1277,Anonymised,Discharge before admission,18-05-2024 → 16-05-2024
+PAT1281,Anonymised,Discharge before admission,05-04-2024 → 04-04-2024
+PAT1285,Anonymised,Discharge before admission,11-10-2024 → 10-10-2024
+PAT1288,Anonymised,Discharge before admission,22-02-2024 → 21-02-2024
+PAT1289,Anonymised,Discharge before admission,14-01-2024 → 11-01-2024
+PAT1292,Anonymised,Discharge before admission,10-10-2024 → 05-10-2024
+PAT1302,Anonymised,Discharge before admission,04-05-2024 → 03-05-2024
+PAT1308,Anonymised,Discharge before admission,12-03-2024 → 09-03-2024
+PAT1309,Anonymised,Discharge before admission,17-05-2024 → 15-05-2024
+PAT1310,Anonymised,Discharge before admission,03-06-2024 → 02-06-2024
+PAT1312,Anonymised,Discharge before admission,09-09-2024 → 07-09-2024
+PAT1320,Anonymised,Discharge before admission,04-09-2024 → 03-09-2024
+PAT1324,Anonymised,Discharge before admission,06-05-2024 → 03-05-2024
+PAT1334,Anonymised,Discharge before admission,13-07-2024 → 08-07-2024
+PAT1346,Anonymised,Discharge before admission,22-07-2024 → 18-07-2024
+PAT1352,Anonymised,Discharge before admission,15-06-2024 → 13-06-2024
+PAT1357,Anonymised,Discharge before admission,28-02-2024 → 25-02-2024
+PAT1359,Anonymised,Discharge before admission,12-04-2024 → 07-04-2024
+PAT1362,Anonymised,Discharge before admission,08-10-2024 → 07-10-2024
+PAT1373,Anonymised,Discharge before admission,03-05-2024 → 30-04-2024
+PAT1374,Anonymised,Discharge before admission,09-05-2024 → 04-05-2024
+PAT1376,Anonymised,Discharge before admission,04-08-2024 → 01-08-2024
+PAT1377,Anonymised,Discharge before admission,12-07-2024 → 07-07-2024
+PAT1380,Anonymised,Discharge before admission,02-09-2024 → 29-08-2024
+PAT1381,Anonymised,Discharge before admission,25-10-2024 → 21-10-2024
+PAT1394,Anonymised,Discharge before admission,26-03-2024 → 23-03-2024
+PAT1399,Anonymised,Discharge before admission,08-08-2024 → 07-08-2024
+PAT1401,Anonymised,Discharge before admission,06-01-2024 → 03-01-2024
+PAT1403,Anonymised,Discharge before admission,12-05-2024 → 09-05-2024
+PAT1407,Anonymised,Discharge before admission,12-10-2024 → 11-10-2024
+PAT1417,Anonymised,Discharge before admission,25-06-2024 → 22-06-2024
+PAT1423,Anonymised,Discharge before admission,13-02-2024 → 09-02-2024
+PAT1425,Anonymised,Discharge before admission,13-03-2024 → 10-03-2024
+PAT1427,Anonymised,Discharge before admission,08-06-2024 → 06-06-2024
+PAT1431,Anonymised,Discharge before admission,23-09-2024 → 19-09-2024
+PAT1438,Anonymised,Discharge before admission,12-06-2024 → 10-06-2024
+PAT1439,Anonymised,Discharge before admission,04-02-2024 → 30-01-2024
+PAT1441,Anonymised,Discharge before admission,23-01-2024 → 22-01-2024
+PAT1443,Anonymised,Discharge before admission,12-01-2024 → 07-01-2024
+PAT1454,Anonymised,Discharge before admission,06-08-2024 → 05-08-2024
+PAT1459,Anonymised,Discharge before admission,05-04-2024 → 03-04-2024
+PAT1461,Anonymised,Discharge before admission,21-07-2024 → 16-07-2024
+PAT1467,Anonymised,Discharge before admission,03-01-2024 → 31-12-2023
+PAT1472,Anonymised,Discharge before admission,22-10-2024 → 19-10-2024
+PAT1477,Anonymised,Discharge before admission,15-06-2024 → 11-06-2024
+PAT1485,Anonymised,Discharge before admission,17-07-2024 → 15-07-2024
+PAT1489,Anonymised,Discharge before admission,27-06-2024 → 25-06-2024
+PAT1493,Anonymised,Discharge before admission,01-06-2024 → 27-05-2024
+PAT1494,Anonymised,Discharge before admission,13-02-2024 → 09-02-2024
+PAT1495,Anonymised,Discharge before admission,09-03-2024 → 04-03-2024
+PAT1497,Anonymised,Discharge before admission,01-03-2024 → 26-02-2024
+PAT1374,Anonymised,Discharge before admission,09-05-2024 → 04-05-2024
+PAT1155,Anonymised,Discharge before admission,04-01-2024 → 03-01-2024
+PAT1394,Anonymised,Discharge before admission,26-03-2024 → 23-03-2024
+PAT1377,Anonymised,Discharge before admission,12-07-2024 → 07-07-2024
+PAT1002,Anonymised,Non-standard gender,Entered: F
+PAT1003,Anonymised,Non-standard gender,Entered: M
+PAT1006,Anonymised,Non-standard gender,Entered: M
+PAT1008,Anonymised,Non-standard gender,Entered: M
+PAT1010,Anonymised,Non-standard gender,Entered: F
+PAT1012,Anonymised,Non-standard gender,Entered: F
+PAT1020,Anonymised,Non-standard gender,Entered: M
+PAT1024,Anonymised,Non-standard gender,Entered: F
+PAT1027,Anonymised,Non-standard gender,Entered: M
+PAT1028,Anonymised,Non-standard gender,Entered: M
+PAT1030,Anonymised,Non-standard gender,Entered: M
+PAT1034,Anonymised,Non-standard gender,Entered: M
+PAT1036,Anonymised,Non-standard gender,Entered: F
+PAT1042,Anonymised,Non-standard gender,Entered: F
+PAT1045,Anonymised,Non-standard gender,Entered: M
+PAT1046,Anonymised,Non-standard gender,Entered: F
+PAT1048,Anonymised,Non-standard gender,Entered: M
+PAT1051,Anonymised,Non-standard gender,Entered: F
+PAT1053,Anonymised,Non-standard gender,Entered: F
+PAT1056,Anonymised,Non-standard gender,Entered: F
+PAT1057,Anonymised,Non-standard gender,Entered: M
+PAT1058,Anonymised,Non-standard gender,Entered: M
+PAT1063,Anonymised,Non-standard gender,Entered: F
+PAT1064,Anonymised,Non-standard gender,Entered: M
+PAT1065,Anonymised,Non-standard gender,Entered: M
+PAT1067,Anonymised,Non-standard gender,Entered: M
+PAT1068,Anonymised,Non-standard gender,Entered: M
+PAT1070,Anonymised,Non-standard gender,Entered: F
+PAT1072,Anonymised,Non-standard gender,Entered: M
+PAT1075,Anonymised,Non-standard gender,Entered: M
+PAT1078,Anonymised,Non-standard gender,Entered: M
+PAT1082,Anonymised,Non-standard gender,Entered: F
+PAT1083,Anonymised,Non-standard gender,Entered: M
+PAT1084,Anonymised,Non-standard gender,Entered: M
+PAT1085,Anonymised,Non-standard gender,Entered: F
+PAT1089,Anonymised,Non-standard gender,Entered: F
+PAT1092,Anonymised,Non-standard gender,Entered: M
+PAT1094,Anonymised,Non-standard gender,Entered: F
+PAT1099,Anonymised,Non-standard gender,Entered: M
+PAT1100,Anonymised,Non-standard gender,Entered: F
+PAT1102,Anonymised,Non-standard gender,Entered: M
+PAT1104,Anonymised,Non-standard gender,Entered: M
+PAT1106,Anonymised,Non-standard gender,Entered: M
+PAT1108,Anonymised,Non-standard gender,Entered: M
+PAT1109,Anonymised,Non-standard gender,Entered: F
+PAT1110,Anonymised,Non-standard gender,Entered: M
+PAT1111,Anonymised,Non-standard gender,Entered: F
+PAT1112,Anonymised,Non-standard gender,Entered: M
+PAT1116,Anonymised,Non-standard gender,Entered: F
+PAT1117,Anonymised,Non-standard gender,Entered: F
+PAT1121,Anonymised,Non-standard gender,Entered: M
+PAT1122,Anonymised,Non-standard gender,Entered: F
+PAT1125,Anonymised,Non-standard gender,Entered: M
+PAT1126,Anonymised,Non-standard gender,Entered: M
+PAT1128,Anonymised,Non-standard gender,Entered: F
+PAT1131,Anonymised,Non-standard gender,Entered: M
+PAT1132,Anonymised,Non-standard gender,Entered: F
+PAT1133,Anonymised,Non-standard gender,Entered: F
+PAT1134,Anonymised,Non-standard gender,Entered: F
+PAT1137,Anonymised,Non-standard gender,Entered: F
+PAT1140,Anonymised,Non-standard gender,Entered: M
+PAT1143,Anonymised,Non-standard gender,Entered: M
+PAT1146,Anonymised,Non-standard gender,Entered: M
+PAT1153,Anonymised,Non-standard gender,Entered: F
+PAT1156,Anonymised,Non-standard gender,Entered: F
+PAT1157,Anonymised,Non-standard gender,Entered: F
+PAT1160,Anonymised,Non-standard gender,Entered: F
+PAT1161,Anonymised,Non-standard gender,Entered: F
+PAT1162,Anonymised,Non-standard gender,Entered: F
+PAT1167,Anonymised,Non-standard gender,Entered: F
+PAT1171,Anonymised,Non-standard gender,Entered: F
+PAT1176,Anonymised,Non-standard gender,Entered: F
+PAT1178,Anonymised,Non-standard gender,Entered: F
+PAT1182,Anonymised,Non-standard gender,Entered: M
+PAT1183,Anonymised,Non-standard gender,Entered: F
+PAT1186,Anonymised,Non-standard gender,Entered: F
+PAT1188,Anonymised,Non-standard gender,Entered: F
+PAT1190,Anonymised,Non-standard gender,Entered: F
+PAT1191,Anonymised,Non-standard gender,Entered: F
+PAT1192,Anonymised,Non-standard gender,Entered: M
+PAT1194,Anonymised,Non-standard gender,Entered: M
+PAT1196,Anonymised,Non-standard gender,Entered: F
+PAT1198,Anonymised,Non-standard gender,Entered: M
+PAT1199,Anonymised,Non-standard gender,Entered: F
+PAT1201,Anonymised,Non-standard gender,Entered: M
+PAT1203,Anonymised,Non-standard gender,Entered: M
+PAT1204,Anonymised,Non-standard gender,Entered: M
+PAT1205,Anonymised,Non-standard gender,Entered: M
+PAT1211,Anonymised,Non-standard gender,Entered: F
+PAT1215,Anonymised,Non-standard gender,Entered: F
+PAT1216,Anonymised,Non-standard gender,Entered: F
+PAT1217,Anonymised,Non-standard gender,Entered: M
+PAT1219,Anonymised,Non-standard gender,Entered: F
+PAT1220,Anonymised,Non-standard gender,Entered: F
+PAT1223,Anonymised,Non-standard gender,Entered: F
+PAT1224,Anonymised,Non-standard gender,Entered: F
+PAT1228,Anonymised,Non-standard gender,Entered: F
+PAT1229,Anonymised,Non-standard gender,Entered: F
+PAT1231,Anonymised,Non-standard gender,Entered: M
+PAT1232,Anonymised,Non-standard gender,Entered: M
+PAT1233,Anonymised,Non-standard gender,Entered: F
+PAT1234,Anonymised,Non-standard gender,Entered: F
+PAT1239,Anonymised,Non-standard gender,Entered: F
+PAT1241,Anonymised,Non-standard gender,Entered: M
+PAT1242,Anonymised,Non-standard gender,Entered: F
+PAT1243,Anonymised,Non-standard gender,Entered: F
+PAT1245,Anonymised,Non-standard gender,Entered: F
+PAT1246,Anonymised,Non-standard gender,Entered: M
+PAT1247,Anonymised,Non-standard gender,Entered: F
+PAT1249,Anonymised,Non-standard gender,Entered: F
+PAT1254,Anonymised,Non-standard gender,Entered: F
+PAT1259,Anonymised,Non-standard gender,Entered: F
+PAT1261,Anonymised,Non-standard gender,Entered: F
+PAT1264,Anonymised,Non-standard gender,Entered: M
+PAT1265,Anonymised,Non-standard gender,Entered: F
+PAT1266,Anonymised,Non-standard gender,Entered: M
+PAT1268,Anonymised,Non-standard gender,Entered: F
+PAT1269,Anonymised,Non-standard gender,Entered: M
+PAT1270,Anonymised,Non-standard gender,Entered: M
+PAT1271,Anonymised,Non-standard gender,Entered: F
+PAT1272,Anonymised,Non-standard gender,Entered: M
+PAT1273,Anonymised,Non-standard gender,Entered: F
+PAT1274,Anonymised,Non-standard gender,Entered: M
+PAT1276,Anonymised,Non-standard gender,Entered: F
+PAT1280,Anonymised,Non-standard gender,Entered: M
+PAT1292,Anonymised,Non-standard gender,Entered: F
+PAT1296,Anonymised,Non-standard gender,Entered: F
+PAT1297,Anonymised,Non-standard gender,Entered: M
+PAT1298,Anonymised,Non-standard gender,Entered: M
+PAT1304,Anonymised,Non-standard gender,Entered: M
+PAT1308,Anonymised,Non-standard gender,Entered: M
+PAT1310,Anonymised,Non-standard gender,Entered: F
+PAT1311,Anonymised,Non-standard gender,Entered: F
+PAT1317,Anonymised,Non-standard gender,Entered: M
+PAT1322,Anonymised,Non-standard gender,Entered: M
+PAT1324,Anonymised,Non-standard gender,Entered: F
+PAT1325,Anonymised,Non-standard gender,Entered: M
+PAT1328,Anonymised,Non-standard gender,Entered: M
+PAT1330,Anonymised,Non-standard gender,Entered: F
+PAT1331,Anonymised,Non-standard gender,Entered: F
+PAT1333,Anonymised,Non-standard gender,Entered: F
+PAT1334,Anonymised,Non-standard gender,Entered: M
+PAT1335,Anonymised,Non-standard gender,Entered: F
+PAT1337,Anonymised,Non-standard gender,Entered: F
+PAT1340,Anonymised,Non-standard gender,Entered: M
+PAT1343,Anonymised,Non-standard gender,Entered: F
+PAT1344,Anonymised,Non-standard gender,Entered: F
+PAT1345,Anonymised,Non-standard gender,Entered: F
+PAT1347,Anonymised,Non-standard gender,Entered: M
+PAT1348,Anonymised,Non-standard gender,Entered: M
+PAT1351,Anonymised,Non-standard gender,Entered: M
+PAT1352,Anonymised,Non-standard gender,Entered: F
+PAT1354,Anonymised,Non-standard gender,Entered: F
+PAT1357,Anonymised,Non-standard gender,Entered: F
+PAT1358,Anonymised,Non-standard gender,Entered: M
+PAT1360,Anonymised,Non-standard gender,Entered: F
+PAT1361,Anonymised,Non-standard gender,Entered: M
+PAT1363,Anonymised,Non-standard gender,Entered: F
+PAT1365,Anonymised,Non-standard gender,Entered: M
+PAT1366,Anonymised,Non-standard gender,Entered: M
+PAT1367,Anonymised,Non-standard gender,Entered: M
+PAT1368,Anonymised,Non-standard gender,Entered: M
+PAT1370,Anonymised,Non-standard gender,Entered: M
+PAT1377,Anonymised,Non-standard gender,Entered: F
+PAT1378,Anonymised,Non-standard gender,Entered: F
+PAT1381,Anonymised,Non-standard gender,Entered: F
+PAT1382,Anonymised,Non-standard gender,Entered: F
+PAT1383,Anonymised,Non-standard gender,Entered: F
+PAT1386,Anonymised,Non-standard gender,Entered: M
+PAT1388,Anonymised,Non-standard gender,Entered: F
+PAT1390,Anonymised,Non-standard gender,Entered: M
+PAT1392,Anonymised,Non-standard gender,Entered: M
+PAT1393,Anonymised,Non-standard gender,Entered: F
+PAT1396,Anonymised,Non-standard gender,Entered: M
+PAT1397,Anonymised,Non-standard gender,Entered: F
+PAT1399,Anonymised,Non-standard gender,Entered: M
+PAT1400,Anonymised,Non-standard gender,Entered: M
+PAT1401,Anonymised,Non-standard gender,Entered: F
+PAT1402,Anonymised,Non-standard gender,Entered: M
+PAT1403,Anonymised,Non-standard gender,Entered: M
+PAT1404,Anonymised,Non-standard gender,Entered: M
+PAT1408,Anonymised,Non-standard gender,Entered: M
+PAT1414,Anonymised,Non-standard gender,Entered: F
+PAT1415,Anonymised,Non-standard gender,Entered: M
+PAT1419,Anonymised,Non-standard gender,Entered: M
+PAT1422,Anonymised,Non-standard gender,Entered: M
+PAT1424,Anonymised,Non-standard gender,Entered: M
+PAT1426,Anonymised,Non-standard gender,Entered: M
+PAT1430,Anonymised,Non-standard gender,Entered: M
+PAT1434,Anonymised,Non-standard gender,Entered: M
+PAT1436,Anonymised,Non-standard gender,Entered: F
+PAT1440,Anonymised,Non-standard gender,Entered: M
+PAT1441,Anonymised,Non-standard gender,Entered: F
+PAT1442,Anonymised,Non-standard gender,Entered: F
+PAT1443,Anonymised,Non-standard gender,Entered: F
+PAT1444,Anonymised,Non-standard gender,Entered: M
+PAT1447,Anonymised,Non-standard gender,Entered: M
+PAT1448,Anonymised,Non-standard gender,Entered: F
+PAT1451,Anonymised,Non-standard gender,Entered: F
+PAT1452,Anonymised,Non-standard gender,Entered: F
+PAT1459,Anonymised,Non-standard gender,Entered: M
+PAT1464,Anonymised,Non-standard gender,Entered: F
+PAT1470,Anonymised,Non-standard gender,Entered: F
+PAT1471,Anonymised,Non-standard gender,Entered: F
+PAT1472,Anonymised,Non-standard gender,Entered: F
+PAT1473,Anonymised,Non-standard gender,Entered: M
+PAT1475,Anonymised,Non-standard gender,Entered: F
+PAT1476,Anonymised,Non-standard gender,Entered: M
+PAT1484,Anonymised,Non-standard gender,Entered: M
+PAT1493,Anonymised,Non-standard gender,Entered: F
+PAT1494,Anonymised,Non-standard gender,Entered: F
+PAT1496,Anonymised,Non-standard gender,Entered: F
+PAT1497,Anonymised,Non-standard gender,Entered: M
+PAT1361,Anonymised,Non-standard gender,Entered: M
+PAT1104,Anonymised,Non-standard gender,Entered: M
+PAT1377,Anonymised,Non-standard gender,Entered: F
+PAT1068,Anonymised,Non-standard gender,Entered: M
+PAT1001,Anonymised,Non-standard insurance value,Entered: no
+PAT1010,Anonymised,Non-standard insurance value,Entered: YES
+PAT1013,Anonymised,Non-standard insurance value,Entered: YES
+PAT1014,Anonymised,Non-standard insurance value,Entered: YES
+PAT1017,Anonymised,Non-standard insurance value,Entered: YES
+PAT1018,Anonymised,Non-standard insurance value,Entered: no
+PAT1019,Anonymised,Non-standard insurance value,Entered: no
+PAT1020,Anonymised,Non-standard insurance value,Entered: no
+PAT1022,Anonymised,Non-standard insurance value,Entered: no
+PAT1027,Anonymised,Non-standard insurance value,Entered: no
+PAT1029,Anonymised,Non-standard insurance value,Entered: YES
+PAT1031,Anonymised,Non-standard insurance value,Entered: YES
+PAT1032,Anonymised,Non-standard insurance value,Entered: YES
+PAT1042,Anonymised,Non-standard insurance value,Entered: no
+PAT1046,Anonymised,Non-standard insurance value,Entered: YES
+PAT1048,Anonymised,Non-standard insurance value,Entered: YES
+PAT1050,Anonymised,Non-standard insurance value,Entered: no
+PAT1057,Anonymised,Non-standard insurance value,Entered: YES
+PAT1064,Anonymised,Non-standard insurance value,Entered: no
+PAT1067,Anonymised,Non-standard insurance value,Entered: YES
+PAT1069,Anonymised,Non-standard insurance value,Entered: YES
+PAT1073,Anonymised,Non-standard insurance value,Entered: no
+PAT1074,Anonymised,Non-standard insurance value,Entered: YES
+PAT1075,Anonymised,Non-standard insurance value,Entered: YES
+PAT1079,Anonymised,Non-standard insurance value,Entered: YES
+PAT1083,Anonymised,Non-standard insurance value,Entered: YES
+PAT1084,Anonymised,Non-standard insurance value,Entered: no
+PAT1085,Anonymised,Non-standard insurance value,Entered: no
+PAT1086,Anonymised,Non-standard insurance value,Entered: YES
+PAT1088,Anonymised,Non-standard insurance value,Entered: YES
+PAT1093,Anonymised,Non-standard insurance value,Entered: YES
+PAT1094,Anonymised,Non-standard insurance value,Entered: YES
+PAT1095,Anonymised,Non-standard insurance value,Entered: no
+PAT1098,Anonymised,Non-standard insurance value,Entered: YES
+PAT1101,Anonymised,Non-standard insurance value,Entered: no
+PAT1102,Anonymised,Non-standard insurance value,Entered: YES
+PAT1103,Anonymised,Non-standard insurance value,Entered: YES
+PAT1105,Anonymised,Non-standard insurance value,Entered: YES
+PAT1106,Anonymised,Non-standard insurance value,Entered: no
+PAT1107,Anonymised,Non-standard insurance value,Entered: no
+PAT1108,Anonymised,Non-standard insurance value,Entered: no
+PAT1109,Anonymised,Non-standard insurance value,Entered: YES
+PAT1110,Anonymised,Non-standard insurance value,Entered: YES
+PAT1111,Anonymised,Non-standard insurance value,Entered: no
+PAT1117,Anonymised,Non-standard insurance value,Entered: YES
+PAT1121,Anonymised,Non-standard insurance value,Entered: YES
+PAT1129,Anonymised,Non-standard insurance value,Entered: no
+PAT1134,Anonymised,Non-standard insurance value,Entered: YES
+PAT1137,Anonymised,Non-standard insurance value,Entered: no
+PAT1139,Anonymised,Non-standard insurance value,Entered: YES
+PAT1140,Anonymised,Non-standard insurance value,Entered: no
+PAT1143,Anonymised,Non-standard insurance value,Entered: YES
+PAT1145,Anonymised,Non-standard insurance value,Entered: no
+PAT1149,Anonymised,Non-standard insurance value,Entered: no
+PAT1150,Anonymised,Non-standard insurance value,Entered: YES
+PAT1158,Anonymised,Non-standard insurance value,Entered: no
+PAT1164,Anonymised,Non-standard insurance value,Entered: no
+PAT1165,Anonymised,Non-standard insurance value,Entered: YES
+PAT1168,Anonymised,Non-standard insurance value,Entered: no
+PAT1171,Anonymised,Non-standard insurance value,Entered: YES
+PAT1172,Anonymised,Non-standard insurance value,Entered: YES
+PAT1177,Anonymised,Non-standard insurance value,Entered: YES
+PAT1178,Anonymised,Non-standard insurance value,Entered: no
+PAT1179,Anonymised,Non-standard insurance value,Entered: no
+PAT1180,Anonymised,Non-standard insurance value,Entered: no
+PAT1183,Anonymised,Non-standard insurance value,Entered: YES
+PAT1186,Anonymised,Non-standard insurance value,Entered: YES
+PAT1187,Anonymised,Non-standard insurance value,Entered: YES
+PAT1192,Anonymised,Non-standard insurance value,Entered: no
+PAT1193,Anonymised,Non-standard insurance value,Entered: no
+PAT1194,Anonymised,Non-standard insurance value,Entered: YES
+PAT1198,Anonymised,Non-standard insurance value,Entered: YES
+PAT1199,Anonymised,Non-standard insurance value,Entered: no
+PAT1202,Anonymised,Non-standard insurance value,Entered: no
+PAT1203,Anonymised,Non-standard insurance value,Entered: YES
+PAT1204,Anonymised,Non-standard insurance value,Entered: YES
+PAT1205,Anonymised,Non-standard insurance value,Entered: no
+PAT1206,Anonymised,Non-standard insurance value,Entered: no
+PAT1211,Anonymised,Non-standard insurance value,Entered: no
+PAT1216,Anonymised,Non-standard insurance value,Entered: YES
+PAT1221,Anonymised,Non-standard insurance value,Entered: YES
+PAT1225,Anonymised,Non-standard insurance value,Entered: no
+PAT1226,Anonymised,Non-standard insurance value,Entered: YES
+PAT1228,Anonymised,Non-standard insurance value,Entered: no
+PAT1229,Anonymised,Non-standard insurance value,Entered: no
+PAT1230,Anonymised,Non-standard insurance value,Entered: no
+PAT1234,Anonymised,Non-standard insurance value,Entered: no
+PAT1249,Anonymised,Non-standard insurance value,Entered: YES
+PAT1252,Anonymised,Non-standard insurance value,Entered: no
+PAT1256,Anonymised,Non-standard insurance value,Entered: YES
+PAT1259,Anonymised,Non-standard insurance value,Entered: no
+PAT1261,Anonymised,Non-standard insurance value,Entered: no
+PAT1262,Anonymised,Non-standard insurance value,Entered: no
+PAT1265,Anonymised,Non-standard insurance value,Entered: no
+PAT1272,Anonymised,Non-standard insurance value,Entered: YES
+PAT1274,Anonymised,Non-standard insurance value,Entered: YES
+PAT1275,Anonymised,Non-standard insurance value,Entered: no
+PAT1280,Anonymised,Non-standard insurance value,Entered: no
+PAT1281,Anonymised,Non-standard insurance value,Entered: no
+PAT1288,Anonymised,Non-standard insurance value,Entered: no
+PAT1293,Anonymised,Non-standard insurance value,Entered: no
+PAT1301,Anonymised,Non-standard insurance value,Entered: no
+PAT1306,Anonymised,Non-standard insurance value,Entered: no
+PAT1308,Anonymised,Non-standard insurance value,Entered: no
+PAT1309,Anonymised,Non-standard insurance value,Entered: YES
+PAT1312,Anonymised,Non-standard insurance value,Entered: no
+PAT1314,Anonymised,Non-standard insurance value,Entered: no
+PAT1315,Anonymised,Non-standard insurance value,Entered: no
+PAT1316,Anonymised,Non-standard insurance value,Entered: YES
+PAT1320,Anonymised,Non-standard insurance value,Entered: no
+PAT1322,Anonymised,Non-standard insurance value,Entered: YES
+PAT1323,Anonymised,Non-standard insurance value,Entered: no
+PAT1326,Anonymised,Non-standard insurance value,Entered: YES
+PAT1329,Anonymised,Non-standard insurance value,Entered: no
+PAT1330,Anonymised,Non-standard insurance value,Entered: YES
+PAT1339,Anonymised,Non-standard insurance value,Entered: no
+PAT1341,Anonymised,Non-standard insurance value,Entered: YES
+PAT1342,Anonymised,Non-standard insurance value,Entered: no
+PAT1343,Anonymised,Non-standard insurance value,Entered: YES
+PAT1346,Anonymised,Non-standard insurance value,Entered: no
+PAT1348,Anonymised,Non-standard insurance value,Entered: YES
+PAT1349,Anonymised,Non-standard insurance value,Entered: YES
+PAT1351,Anonymised,Non-standard insurance value,Entered: no
+PAT1353,Anonymised,Non-standard insurance value,Entered: YES
+PAT1355,Anonymised,Non-standard insurance value,Entered: YES
+PAT1356,Anonymised,Non-standard insurance value,Entered: no
+PAT1358,Anonymised,Non-standard insurance value,Entered: no
+PAT1361,Anonymised,Non-standard insurance value,Entered: no
+PAT1363,Anonymised,Non-standard insurance value,Entered: YES
+PAT1366,Anonymised,Non-standard insurance value,Entered: no
+PAT1367,Anonymised,Non-standard insurance value,Entered: YES
+PAT1368,Anonymised,Non-standard insurance value,Entered: YES
+PAT1370,Anonymised,Non-standard insurance value,Entered: YES
+PAT1371,Anonymised,Non-standard insurance value,Entered: no
+PAT1375,Anonymised,Non-standard insurance value,Entered: no
+PAT1380,Anonymised,Non-standard insurance value,Entered: no
+PAT1381,Anonymised,Non-standard insurance value,Entered: YES
+PAT1386,Anonymised,Non-standard insurance value,Entered: no
+PAT1390,Anonymised,Non-standard insurance value,Entered: no
+PAT1392,Anonymised,Non-standard insurance value,Entered: no
+PAT1395,Anonymised,Non-standard insurance value,Entered: YES
+PAT1397,Anonymised,Non-standard insurance value,Entered: YES
+PAT1401,Anonymised,Non-standard insurance value,Entered: no
+PAT1402,Anonymised,Non-standard insurance value,Entered: no
+PAT1405,Anonymised,Non-standard insurance value,Entered: YES
+PAT1409,Anonymised,Non-standard insurance value,Entered: no
+PAT1410,Anonymised,Non-standard insurance value,Entered: no
+PAT1414,Anonymised,Non-standard insurance value,Entered: YES
+PAT1424,Anonymised,Non-standard insurance value,Entered: YES
+PAT1429,Anonymised,Non-standard insurance value,Entered: YES
+PAT1430,Anonymised,Non-standard insurance value,Entered: no
+PAT1431,Anonymised,Non-standard insurance value,Entered: YES
+PAT1432,Anonymised,Non-standard insurance value,Entered: no
+PAT1433,Anonymised,Non-standard insurance value,Entered: no
+PAT1441,Anonymised,Non-standard insurance value,Entered: YES
+PAT1444,Anonymised,Non-standard insurance value,Entered: YES
+PAT1445,Anonymised,Non-standard insurance value,Entered: YES
+PAT1446,Anonymised,Non-standard insurance value,Entered: YES
+PAT1450,Anonymised,Non-standard insurance value,Entered: no
+PAT1451,Anonymised,Non-standard insurance value,Entered: no
+PAT1454,Anonymised,Non-standard insurance value,Entered: YES
+PAT1456,Anonymised,Non-standard insurance value,Entered: no
+PAT1462,Anonymised,Non-standard insurance value,Entered: YES
+PAT1463,Anonymised,Non-standard insurance value,Entered: YES
+PAT1466,Anonymised,Non-standard insurance value,Entered: YES
+PAT1469,Anonymised,Non-standard insurance value,Entered: YES
+PAT1470,Anonymised,Non-standard insurance value,Entered: no
+PAT1471,Anonymised,Non-standard insurance value,Entered: no
+PAT1473,Anonymised,Non-standard insurance value,Entered: no
+PAT1475,Anonymised,Non-standard insurance value,Entered: YES
+PAT1476,Anonymised,Non-standard insurance value,Entered: no
+PAT1477,Anonymised,Non-standard insurance value,Entered: no
+PAT1480,Anonymised,Non-standard insurance value,Entered: no
+PAT1482,Anonymised,Non-standard insurance value,Entered: YES
+PAT1484,Anonymised,Non-standard insurance value,Entered: no
+PAT1487,Anonymised,Non-standard insurance value,Entered: YES
+PAT1488,Anonymised,Non-standard insurance value,Entered: no
+PAT1489,Anonymised,Non-standard insurance value,Entered: YES
+PAT1493,Anonymised,Non-standard insurance value,Entered: YES
+PAT1495,Anonymised,Non-standard insurance value,Entered: YES
+PAT1497,Anonymised,Non-standard insurance value,Entered: no
+PAT1498,Anonymised,Non-standard insurance value,Entered: YES
+PAT1361,Anonymised,Non-standard insurance value,Entered: no
+PAT1073,Anonymised,Non-standard insurance value,Entered: no
+PAT1450,Anonymised,Non-standard insurance value,Entered: no
+PAT1361,Anonymised,Duplicate patient ID,ID appears more than once
+PAT1073,Anonymised,Duplicate patient ID,ID appears more than once
+PAT1374,Anonymised,Duplicate patient ID,ID appears more than once
+PAT1155,Anonymised,Duplicate patient ID,ID appears more than once
+PAT1104,Anonymised,Duplicate patient ID,ID appears more than once
+PAT1394,Anonymised,Duplicate patient ID,ID appears more than once
+PAT1377,Anonymised,Duplicate patient ID,ID appears more than once
+PAT1124,Anonymised,Duplicate patient ID,ID appears more than once
+PAT1068,Anonymised,Duplicate patient ID,ID appears more than once
+PAT1450,Anonymised,Duplicate patient ID,ID appears more than once
